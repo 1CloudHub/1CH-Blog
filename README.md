@@ -12,7 +12,7 @@ o	Target Sheet: Select the destination sheet.
 o	Parameters: Leave blank for now (to be configured later).
 This step establishes a link between sheets while setting up the foundation for dynamic filtering.
 
-            ![image](https://github.com/user-attachments/assets/06d4efcc-224a-4971-913a-3e6dbe5e4390)
+    ![image](https://github.com/user-attachments/assets/06d4efcc-224a-4971-913a-3e6dbe5e4390)
 
 
 
@@ -42,9 +42,9 @@ o	Use Parameter: Yes
 o	Select Parameter: parameter
 This ensures that only data corresponding to the user’s selection in Sheet 1 is displayed in Sheet 2.
 
-            ![image](https://github.com/user-attachments/assets/cf82b02c-bac8-43a1-a2e3-20a3cee50cb3)
+   ![image](https://github.com/user-attachments/assets/cf82b02c-bac8-43a1-a2e3-20a3cee50cb3)
 
-            ![image](https://github.com/user-attachments/assets/c25c32b5-5033-4e93-ae5e-86f778429b34)
+  ![image](https://github.com/user-attachments/assets/c25c32b5-5033-4e93-ae5e-86f778429b34)
 
 
 Step 5: Testing the Cross-Sheet Filtering
