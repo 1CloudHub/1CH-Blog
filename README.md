@@ -1,4 +1,4 @@
-                                                                    Introducing Cross-Sheet Filtering in AWS QuickSight
+                                                              Introducing Cross-Sheet Filtering in AWS QuickSight
    
 The enhanced approach to cross-sheet filtering involves implementing a custom navigation action, leveraging parameters, and applying custom filters to refine data before displaying it on the target sheet.
 
@@ -11,6 +11,9 @@ o	Action Type: Navigation Action
 o	Target Sheet: Select the destination sheet.
 o	Parameters: Leave blank for now (to be configured later).
 This step establishes a link between sheets while setting up the foundation for dynamic filtering.
+
+![image](https://github.com/user-attachments/assets/09805720-d8b6-4a54-aa1e-320d5ccf7d22)
+
 
 Step 2: Creating a Parameter for Filtering
 Since filtering will be based on a column value, a parameter must be created:
@@ -37,6 +40,9 @@ o	Filter Condition: Equals
 o	Use Parameter: Yes
 o	Select Parameter: parameter
 This ensures that only data corresponding to the user’s selection in Sheet 1 is displayed in Sheet 2.
+
+![image](https://github.com/user-attachments/assets/24c5ec20-18ad-4d87-991d-9e4380af1f7a)
+
 
 Step 5: Testing the Cross-Sheet Filtering
 To verify the effectiveness of this implementation:
