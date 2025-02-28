@@ -1,4 +1,4 @@
-                                                            Introducing Cross-Sheet Filtering in AWS QuickSight
+                                                        Introducing Cross-Sheet Filtering in AWS QuickSight
 
 The enhanced approach to cross-sheet filtering involves implementing a custom navigation action, leveraging parameters, and applying custom filters to refine data before displaying it on the target sheet. Below is the step-by-step process to achieve this:
 Step 1: Implementing a Custom Navigation Action in Sheet 1
