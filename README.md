@@ -11,6 +11,7 @@ o	Action Type: Navigation Action
 o	Target Sheet: Select the destination sheet.
 o	Parameters: Leave blank for now (to be configured later).
 This step establishes a link between sheets while setting up the foundation for dynamic filtering.
+
 ![image](https://github.com/user-attachments/assets/9096ba06-eb6f-4c14-99af-4f110ac19492)
 
 Step 2: Creating a Parameter for Filtering
@@ -38,6 +39,7 @@ o	Filter Condition: Equals
 o	Use Parameter: Yes
 o	Select Parameter: parameter
 This ensures that only data corresponding to the user’s selection in Sheet 1 is displayed in Sheet 2.
+
 ![image](https://github.com/user-attachments/assets/424ecc25-b90d-411c-92d3-dc3264731985)
 
 Step 5: Testing the Cross-Sheet Filtering
